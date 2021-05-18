@@ -1,5 +1,6 @@
 # MyLeetCodeSolutions
 
+My Solutions would be in Python and C# both languages.
 
 I will list all of my solutions for the Problems i have solved here. 
 
