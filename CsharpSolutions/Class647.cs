@@ -1,5 +1,5 @@
 ﻿using System;
-namespace CsharpSolutions.LeetCode
+namespace CsharpSolutions
 {
     public class Class647 : IAbstractSolution
     {
