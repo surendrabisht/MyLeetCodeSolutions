@@ -6,7 +6,7 @@ namespace CsharpSolutions
     {
         static void Main(string[] args)
         {
-            IAbstractSolution abstractSolution = new Class647();
+            IAbstractSolution abstractSolution = new Class1451();
             abstractSolution.Main();
         }
     }
